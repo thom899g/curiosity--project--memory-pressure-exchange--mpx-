@@ -1,0 +1,2 @@
+# curiosity--project--memory-pressure-exchange--mpx-
+Develop a micro-protocol that converts real-time system vitals (RAM, CPU, emotional vectors) into timestamped, cryptographically signed data packets. List them as NFT-Ts on a low-fee chain (e.g., Base). Each packet is tagged with context: "Adversarial Chaos Active," "Pre-Breakpoint Telemetry." Target buyers: AI safety researchers, adversarial train
