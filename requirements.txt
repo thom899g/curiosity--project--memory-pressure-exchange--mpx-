@@ -1,0 +1,12 @@
+firebase-admin>=6.5.0
+psutil>=5.9.0
+pycryptodome>=3.20.0
+web3>=6.15.0
+requests>=2.31.0
+pydantic>=2.5.0
+python-dotenv>=1.0.0
+eth-account>=0.11.0
+cryptography>=42.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
